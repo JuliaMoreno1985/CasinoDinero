@@ -9,7 +9,7 @@ El trabajo se basa en la verificación de información pública, registros ofici
 - Revisión de mecanismos de depósito y retirada (requisito x1, rutas de pago, activación de KYC)  
 - Análisis de requisitos de apuesta y cláusulas de riesgo en bonos  
 - Evaluación de políticas de pago y transparencia en términos y condiciones  
-- Seguimiento de tendencias de producto (crash games frente a tragamonedas tradicionales)  
+- Seguimiento de tendencias de producto (crash games y tragamonedas)  
 
 El objetivo no es promocional, sino analítico:  
 comprender cómo operan las plataformas, bajo qué marco regulatorio y cuáles son las implicaciones prácticas para el jugador.
