@@ -5,4 +5,5 @@ Observaciones sobre los modelos de concesión de licencias a casinos, las polít
 - Cumplimiento normativo en materia de prevención del blanqueo de capitales y pagos
 - Mecanismos de depósito/retirada
 - Tendencias del mercado crash frente al de las tragaperras
+
 Investigación independiente y análisis orientado a la transparencia.
